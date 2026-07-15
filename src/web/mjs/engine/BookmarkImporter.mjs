@@ -7,7 +7,7 @@ export default class BookmarkImporter {
          */
         this._connectorMap = {
             '3asq': 'mangalover-archive',
-            '3asqorg': 'mangalover',
+            '3asqonline': 'mangalover',
             'acqqcom': 'tencentcomic',
             'artemisnf': 'artemisnofansub',
             'comicocoid': 'comicoid',

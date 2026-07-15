@@ -7,6 +7,6 @@ export default class MangaLover extends WordPressMadara {
         super.id = 'mangalover';
         super.label = '3asq (مانجا العاشق)';
         this.tags = [ 'manga', 'arabic' ];
-        this.url = 'https://3asq.org';
+        this.url = 'https://3asq.online';
     }
 }
